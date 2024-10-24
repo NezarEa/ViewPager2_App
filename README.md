@@ -57,7 +57,7 @@ Développé par [NezarElAyachi](https://github.com/NezarElAyachi).
 
 Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus de détails.
 
-##icon des lists pays
+## icon des lists pays
 
 ![Application Screenshot](app/src/main/res/drawable/drawable-mdpi/belgium.png)
 ![Application Screenshot](app/src/main/res/drawable/drawable-mdpi/canada.png)
@@ -66,7 +66,7 @@ Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus 
 ![Application Screenshot](app/src/main/res/drawable/drawable-mdpi/morocco.png)
 
 
-##Application Screenshot
+## Application Screenshot
 
 
 <img src="https://github.com/user-attachments/assets/9f7d028e-1679-4b3b-8325-309a9561b64a" alt="Screenshot 1" width="300"/>
