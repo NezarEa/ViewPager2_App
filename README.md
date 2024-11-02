@@ -30,7 +30,7 @@ L'application utilise un `ViewPager2` pour une navigation horizontale entre ces 
 
 1. Clonez le projet à partir de GitHub :
     ```bash
-    git clone https://github.com/NezarElAyachi/ViewPager2App.git
+    git clone https://github.com/NezarEa/ViewPager2App.git
     ```
    
 2. Ouvrez le projet dans Android Studio.
@@ -51,7 +51,7 @@ L'application utilise un `ViewPager2` pour une navigation horizontale entre ces 
 
 ## Auteur
 
-Développé par [NezarElAyachi](https://github.com/NezarElAyachi).
+Développé par [@NezarElAyachi](https://github.com/NezarEa).
 
 ## License
 
@@ -69,7 +69,7 @@ Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus 
 ## Application Screenshot
 
 
-<img src="https://github.com/user-attachments/assets/9f7d028e-1679-4b3b-8325-309a9561b64a" alt="Screenshot 1" width="300"/>
-<img src="https://github.com/user-attachments/assets/1416d7ec-1ad7-4832-803a-53d8bd608249" alt="Screenshot 2" width="300"/>
-<img src="https://github.com/user-attachments/assets/8689f3fc-2ad5-4302-b3f8-5229a89ba878" alt="Screenshot 3" width="300"/>
+<img src="https://github.com/user-attachments/assets/9f7d028e-1679-4b3b-8325-309a9561b64a" alt="Screenshot 1" width="250"/>
+<img src="https://github.com/user-attachments/assets/1416d7ec-1ad7-4832-803a-53d8bd608249" alt="Screenshot 2" width="250"/>
+<img src="https://github.com/user-attachments/assets/8689f3fc-2ad5-4302-b3f8-5229a89ba878" alt="Screenshot 3" width="250"/>
 
