@@ -20,6 +20,6 @@
         android:layout_gravity="center_vertical"
         android:layout_marginStart="16dp"
         android:textSize="18sp"
-        android:textColor="@android:color/black"
+        android:textColor="@color/itemText"
         android:textStyle="bold" />
 </LinearLayout>
