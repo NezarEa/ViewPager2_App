@@ -51,7 +51,7 @@ L'application utilise un `ViewPager2` pour une navigation horizontale entre ces 
 
 ## Auteur
 
-Développé par [@NezarElAyachi](https://github.com/NezarEa).
+Développé par [@NezarEa](https://github.com/NezarEa).
 
 ## License
 
